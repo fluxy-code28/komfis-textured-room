@@ -18,7 +18,17 @@ Akses dari browser
 ```
 http://localhost:8000
 ```
+mengakses link ini akan otomatis diarahkan ke file `index.html`. Untuk mengakses file lain gunakan url:
+```
+http://localhost:8000/index2.html
+```
 
 ## Langkah 1 
 
 File untuk langkah satu berada di file `index.html`
+## Langkah 2 
+
+File untuk langkah dua berada di file `index2.html`
+## Langkah 3 
+
+File untuk langkah tiga berada di file `index3.html`
