@@ -3,6 +3,9 @@
 **Anggota Kelompok**
 - Aldura Armanu Shaufa Imron (235150201111018)
 - Muhammad Arif Rifki (235150200111066)
+- Brahmantio Jati Pambudi (235150201111028)
+- Muhammad Rafindran Luthfi (235150200111063)
+- Joshua Washington Hutasoit (235150207111037)
 
 ## Get Started 
 Clone repositori ini ke komputer lokal
